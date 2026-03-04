@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Hatchback Placeholder</title>
+  <desc id="desc">Abstract hatchback graphic placeholder.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc" />
+      <stop offset="1" stop-color="#e2e8f0" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#g)" />
+  <rect x="48" y="296" width="544" height="38" rx="10" fill="#94a3b8" />
+  <path d="M130 254h390l40 49H90l40-49Z" fill="#d71920" />
+  <path d="M190 210h208c20 0 40 17 56 44H140c12-18 27-44 50-44Z" fill="#1e293b" />
+  <circle cx="206" cy="314" r="28" fill="#111827" />
+  <circle cx="422" cy="314" r="28" fill="#111827" />
+</svg>

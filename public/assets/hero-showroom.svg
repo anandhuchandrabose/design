@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Showroom Placeholder</title>
+  <desc id="desc">Abstract car showroom style image with vehicle silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9fafb" />
+      <stop offset="1" stop-color="#e5e7eb" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d71920" />
+      <stop offset="1" stop-color="#b31218" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)" />
+  <rect x="0" y="540" width="1200" height="180" fill="#d1d5db" />
+  <rect x="70" y="90" width="300" height="150" rx="18" fill="#ffffff" opacity="0.75" />
+  <rect x="830" y="120" width="260" height="120" rx="18" fill="#ffffff" opacity="0.8" />
+  <path d="M220 455h744l55 64H164l56-64Z" fill="#1f2937" />
+  <path d="M310 390h562c53 0 86 34 105 67H225c21-34 49-67 85-67Z" fill="url(#accent)" />
+  <circle cx="345" cy="520" r="58" fill="#111827" />
+  <circle cx="862" cy="520" r="58" fill="#111827" />
+  <circle cx="345" cy="520" r="26" fill="#9ca3af" />
+  <circle cx="862" cy="520" r="26" fill="#9ca3af" />
+</svg>

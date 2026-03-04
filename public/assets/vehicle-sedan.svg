@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Sedan Placeholder</title>
+  <desc id="desc">Abstract sedan graphic placeholder.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc" />
+      <stop offset="1" stop-color="#e2e8f0" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#g)" />
+  <rect x="46" y="294" width="548" height="40" rx="9" fill="#94a3b8" />
+  <path d="M120 252h400l48 53H72l48-53Z" fill="#d71920" />
+  <path d="M188 204h242c35 0 52 26 70 48H130c17-21 33-48 58-48Z" fill="#334155" />
+  <circle cx="198" cy="314" r="29" fill="#111827" />
+  <circle cx="438" cy="314" r="29" fill="#111827" />
+</svg>

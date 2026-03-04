@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Video Thumbnail Three</title>
+  <desc id="desc">Placeholder thumbnail with abstract showroom bars.</desc>
+  <rect width="640" height="360" fill="#0f172a" />
+  <rect x="58" y="50" width="72" height="260" fill="#334155" />
+  <rect x="150" y="50" width="72" height="260" fill="#d71920" />
+  <rect x="242" y="50" width="72" height="260" fill="#334155" />
+  <rect x="334" y="50" width="72" height="260" fill="#d71920" />
+  <rect x="426" y="50" width="72" height="260" fill="#334155" />
+  <rect x="518" y="50" width="72" height="260" fill="#d71920" />
+</svg>

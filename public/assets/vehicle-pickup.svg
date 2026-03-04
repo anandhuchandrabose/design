@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Pickup Placeholder</title>
+  <desc id="desc">Abstract pickup truck graphic placeholder.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3f4f6" />
+      <stop offset="1" stop-color="#d1d5db" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#g)" />
+  <rect x="45" y="298" width="550" height="36" rx="9" fill="#9ca3af" />
+  <path d="M90 260h390v-34h94l42 80H48l42-46Z" fill="#d71920" />
+  <rect x="180" y="212" width="186" height="48" rx="8" fill="#1f2937" />
+  <circle cx="182" cy="314" r="29" fill="#111827" />
+  <circle cx="465" cy="314" r="29" fill="#111827" />
+</svg>
