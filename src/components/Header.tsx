@@ -33,9 +33,7 @@ export function Header({ links, ctaLabel }: HeaderProps) {
     <header className={`site-header ${compact ? 'site-header--compact' : ''}`}>
       <div className="container site-header__inner">
         <a className="brand" href="#home" onClick={closeMobileMenu}>
-          <span className="brand__badge" aria-hidden="true">
-            A
-          </span>
+          <img className="brand__logo" src="/assets/logo-amanat.png" alt="Amanat Auto logo" />
           <span className="brand__text">
             Amanat Auto
             <small>Official Toyota Specialists</small>

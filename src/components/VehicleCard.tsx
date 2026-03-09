@@ -8,7 +8,7 @@ export function VehicleCard({ vehicle }: VehicleCardProps) {
   return (
     <article className="vehicle-card" data-testid="vehicle-card">
       <figure>
-        <img src={vehicle.image} alt={`${vehicle.name} placeholder`} loading="lazy" />
+        <img src={vehicle.image} alt={`${vehicle.name} exterior view`} loading="lazy" />
       </figure>
       <div className="vehicle-card__content">
         <p className="vehicle-card__badge">{vehicle.badge}</p>

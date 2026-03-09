@@ -11,7 +11,7 @@ export const vehicles: Vehicle[] = [
     transmission: '10-Speed AT',
     fuel: 'Hybrid',
     badge: 'Flagship SUV',
-    image: '/assets/vehicle-suv.svg',
+    image: '/assets/vehicle-suv.jpg',
   },
   {
     id: 'camry',
@@ -23,7 +23,7 @@ export const vehicles: Vehicle[] = [
     transmission: '8-Speed AT',
     fuel: 'Petrol',
     badge: 'Executive Sedan',
-    image: '/assets/vehicle-sedan.svg',
+    image: '/assets/vehicle-sedan.jpg',
   },
   {
     id: 'rav4',
@@ -35,7 +35,7 @@ export const vehicles: Vehicle[] = [
     transmission: 'CVT',
     fuel: 'Hybrid',
     badge: 'Family Ready',
-    image: '/assets/vehicle-suv.svg',
+    image: '/assets/vehicle-suv.jpg',
   },
   {
     id: 'hilux',
@@ -47,7 +47,7 @@ export const vehicles: Vehicle[] = [
     transmission: '6-Speed AT',
     fuel: 'Diesel',
     badge: 'Tough Build',
-    image: '/assets/vehicle-pickup.svg',
+    image: '/assets/vehicle-pickup.jpg',
   },
   {
     id: 'corolla',
@@ -59,7 +59,7 @@ export const vehicles: Vehicle[] = [
     transmission: 'CVT',
     fuel: 'Petrol',
     badge: 'City Favorite',
-    image: '/assets/vehicle-hatch.svg',
+    image: '/assets/vehicle-hatch.jpg',
   },
   {
     id: 'fortuner',
@@ -71,7 +71,7 @@ export const vehicles: Vehicle[] = [
     transmission: '6-Speed AT',
     fuel: 'Diesel',
     badge: 'Adventure SUV',
-    image: '/assets/vehicle-suv.svg',
+    image: '/assets/vehicle-suv.jpg',
   },
   {
     id: 'yaris',
@@ -83,7 +83,7 @@ export const vehicles: Vehicle[] = [
     transmission: 'CVT',
     fuel: 'Petrol',
     badge: 'Compact Smart',
-    image: '/assets/vehicle-hatch.svg',
+    image: '/assets/vehicle-hatch.jpg',
   },
   {
     id: 'crown',
@@ -95,7 +95,7 @@ export const vehicles: Vehicle[] = [
     transmission: 'eCVT',
     fuel: 'Hybrid',
     badge: 'Luxury Hybrid',
-    image: '/assets/vehicle-sedan.svg',
+    image: '/assets/vehicle-sedan.jpg',
   },
   {
     id: 'supra',
@@ -107,7 +107,7 @@ export const vehicles: Vehicle[] = [
     transmission: '8-Speed AT',
     fuel: 'Petrol',
     badge: 'Track Inspired',
-    image: '/assets/vehicle-sedan.svg',
+    image: '/assets/vehicle-sedan.jpg',
   },
   {
     id: 'prius',
@@ -119,7 +119,7 @@ export const vehicles: Vehicle[] = [
     transmission: 'eCVT',
     fuel: 'Hybrid',
     badge: 'Efficiency Leader',
-    image: '/assets/vehicle-hatch.svg',
+    image: '/assets/vehicle-hatch.jpg',
   },
   {
     id: 'highlander',
@@ -131,7 +131,7 @@ export const vehicles: Vehicle[] = [
     transmission: '8-Speed AT',
     fuel: 'Hybrid',
     badge: '7-Seater Comfort',
-    image: '/assets/vehicle-suv.svg',
+    image: '/assets/vehicle-suv.jpg',
   },
   {
     id: 'tundra',
@@ -143,6 +143,6 @@ export const vehicles: Vehicle[] = [
     transmission: '10-Speed AT',
     fuel: 'Petrol',
     badge: 'Heavy Duty',
-    image: '/assets/vehicle-pickup.svg',
+    image: '/assets/vehicle-pickup.jpg',
   },
 ]

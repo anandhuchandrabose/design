@@ -8,7 +8,7 @@ export function VideoCard({ video }: VideoCardProps) {
   return (
     <article className="video-card">
       <figure>
-        <img src={video.thumbnail} alt={`${video.title} thumbnail`} loading="lazy" />
+        <img src={video.thumbnail} alt={`${video.title} preview`} loading="lazy" />
         <button type="button" className="video-card__play" aria-label={`Play ${video.title}`}>
           ▶
         </button>

@@ -64,7 +64,7 @@ function App() {
                 </a>
               </div>
               <figure className="hero__media">
-                <img src="/assets/hero-showroom.svg" alt="Automotive showroom placeholder" />
+                <img src="/assets/hero-showroom.jpg" alt="Toyota showroom hero visual" />
               </figure>
             </div>
 

@@ -242,16 +242,10 @@ button:focus-visible {
   gap: 0.65rem;
 }
 
-.brand__badge {
-  width: 2.1rem;
-  aspect-ratio: 1;
-  border-radius: 50%;
-  background: linear-gradient(145deg, var(--color-primary), var(--color-primary-dark));
-  color: var(--color-white);
-  font-weight: 700;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+.brand__logo {
+  width: clamp(7.8rem, 12vw, 10rem);
+  height: auto;
+  display: block;
 }
 
 .brand__text {
@@ -361,6 +355,12 @@ button:focus-visible {
   background: var(--color-white);
   border: 1px solid var(--color-border);
   box-shadow: var(--shadow-soft);
+}
+
+.hero__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .lead-form,
@@ -522,6 +522,12 @@ button:focus-visible {
   background: linear-gradient(160deg, #f3f4f6, #e5e7eb);
 }
 
+.vehicle-card figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .vehicle-card__content {
   padding: 0.9rem;
 }
@@ -599,6 +605,13 @@ button:focus-visible {
 .video-card figure {
   margin: 0;
   position: relative;
+  aspect-ratio: 16 / 9;
+}
+
+.video-card figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .video-card__play {
@@ -886,6 +899,18 @@ button:focus-visible {
 
   .site-header__inner {
     padding: 0.7rem 0;
+  }
+
+  .brand {
+    gap: 0.45rem;
+  }
+
+  .brand__logo {
+    width: 7.3rem;
+  }
+
+  .brand__text small {
+    display: none;
   }
 
   .menu-toggle {
